@@ -1,0 +1,55 @@
+/* src/assets/style.css */
+
+/* 讓應用程式佔滿整個視窗 */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    /* 🚨 網站整體背景色：深灰色 */
+    background-color: #343a40; 
+    color: #f8f9fa; /* 讓未定義顏色的文字在深色背景上可見 */
+}
+
+/* 滿版背景的 Hero Section 樣式 */
+.hero-section {
+    height: 100vh; /* 滿版高度 (垂直) */
+    width: 100vw; /* 滿版寬度 (水平) */
+    
+    background-image: url('/images/bg_1.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed; 
+    display: flex;
+    flex-direction: column;
+    
+    /* 垂直置中 */
+    justify-content: center; 
+    
+    align-items: center; 
+    color: white; 
+    text-align: center; 
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7); 
+    
+    padding-bottom: 0; 
+}
+
+.hero-section h1 {
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+
+.hero-section p {
+    font-size: 1.2em;
+    margin-top: 0;
+}
+
+/* 🚨 主要內容區塊的背景樣式：深灰色，與 body 相同 */
+.main-content-bg {
+    background: #343a40; 
+    padding-top: 40px; 
+    padding-bottom: 80px; 
+}
+
+/* 讓主要內容區塊內的文字預設置中 */
+.main-content-section {
+    text-align: center;
+}
