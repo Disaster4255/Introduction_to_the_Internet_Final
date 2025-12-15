@@ -23,5 +23,5 @@ Using VSCode for coding, use VITE to set the server up, use the REACT architectu
 
 ## Author
 
-[郝品育 Disaster4255](https://github.com/Disaster4255)
+[郝品育 Disaster4255](https://github.com/Disaster4255)<br>
 [林彥碩 LinYenShou](https://github.com/LinYenShou)
