@@ -1,3 +1,20 @@
+# A Materials List Generation Website
+
+This is a website that can generate materials list, Makers inputs whatever he wants to make such as robotic arms and RC cars, AI will give the Maker some suggestions and generate a materials list which can be download as .CSV file.
+
+## Quick Set Up
+
+Download this repo
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

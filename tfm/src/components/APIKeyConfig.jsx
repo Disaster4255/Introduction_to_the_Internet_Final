@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 // 🚨 預設金鑰：請替換成您實際的 AI 服務金鑰
-const DEFAULT_API_KEY = "AIzaSyCZKbRlbywEQk0Ov4PaNmikXyVY9k8r404"; 
+const DEFAULT_API_KEY = "?????"; 
 
 // 固定的 AI Prompt 修正 JSON 結構
 const FIXED_PROMPT = `
